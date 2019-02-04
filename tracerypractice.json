@@ -1,0 +1,49 @@
+{
+	"name": [
+		"Alex",
+		"Emma",
+		"Megan",
+		"Abe",
+		"Chris",
+		"Molly"
+	],
+	"occupation": [
+		"realtor",
+		"web designer",
+		"marketer",
+		"blogger",
+		"CEO",
+		"game designer"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this to #happen#. The result will #surprise# you!      www.#link#.com"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"expecting"
+	],
+	"happen": [
+		"happen",
+		"fall apart",
+		"start"
+	],
+	"surprise": [
+		"stun",
+		"shock",
+		"impress",
+		"surprise"
+	],
+	"link": [
+		"youdidntknow",
+		"clickbait",
+		"dontclick",
+		"illuminati"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"not",
+		"always"
+	]
+}
